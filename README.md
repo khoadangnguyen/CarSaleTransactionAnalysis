@@ -1,10 +1,12 @@
 # Car Sale Transaction Analysis
 Analyze car sale transaction data to come up with training data and test data for Regression model
 
+### Description
 This project is to analyze over 500,000 car sale transactions of 96 car makes, 972 models, and 1963 trims from 1982 
 to 2015 to come up with what car make, model, trim, and year can be used for training data and test data for the
 Regression model to predict car sale price
 
+### Result
 The analysis results in some popular car make, model, and trim having continuous car sale transaction from 2001 to 2015
 (15 years). Two of these are the Toyota Camry (LE, SE, and XLE) and Honda Odyssey (EX, EX-L, and Touring), and the 
 results are plotted with Matplotlib as below.
@@ -13,6 +15,7 @@ results are plotted with Matplotlib as below.
 
 ![Honda_Odyssey_Sale_Transaction](image/Honda_Odyssey_Sale_Transaction.png)
 
+### Solution
 One approach was to look at a car make and summarize all sale transactions grouped by model, trim, and year then look 
 for all sale transactions of each model and trim to find years with continuous sale transactions. The implementation of 
 this approach can be done by SQL query (data/toyota_model_trim_sales_by_year.sql), and example result as below table.
@@ -30,6 +33,7 @@ The result can then be used to visualize as in the previous 2 bar charts.
 This approach can be applied to any other car make, and the result satisfies the analysis goal in order to prepare
 data for implementing Regression model.
 
+### Extension and Generalization
 However, an interesting problem to solve with SQL is how to find any car make, model, and trim that satisfies the
 condition of continuous car sales over years given the dataset of over 500,000 sale transactions of 96 car makes, 
 972 models, and 1963 trims from 1982 to 2015.
