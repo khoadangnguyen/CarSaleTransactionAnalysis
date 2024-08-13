@@ -51,11 +51,16 @@ Example as below table.
 | Ford | F-150 | XL | 1993 | 2014 | 22 |
  | ... |
 
+The implementation is to find car make, model, and trim having minimum of 7 years of continuous sales. In the example
+result above, the first 3 columns are MAKE, MODEL, and TRIM for car make, model, and trim satisfied the condition. 
+START_YEAR is the starting year of the continuous sale with positive number of sale transaction, END_YEAR is the ended 
+year of the consecutive positive number of sale transactions, and YEAR_COUNT is the count of the continuous years.
+
 With this approach, it is easier to choose a make, model, and trim to further analyze for the minimum number of  sale 
 transaction data and decide if chosen the make, model, and trim can be used to create training data set as well as test 
 data set for that make, model, and trim. 
 In fact, with the implemented solution, the number of minimum sale transactions can be easily added to existing code to 
-filter make, model, and trim having number of sale transactions that is smaller than a given number.
+filter out make, model, and trim having number of sale transactions that is smaller than a given number.
 
 
 
