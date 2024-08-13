@@ -1,0 +1,355 @@
+﻿MAKE,MODEL,TRIM,START_YEAR,END_YEAR,YEAR_COUNT
+Acura,Integra,LS,1994,2001,8
+Acura,MDX,Base,2001,2014,14
+Acura,RDX,Base,2007,2015,9
+Acura,RL,3.5,1997,2004,8
+Acura,TL,3.2,1997,2005,9
+Acura,TL,Base,2006,2014,9
+Acura,TSX,Base,2004,2014,11
+Audi,A4,1.8T,1999,2006,8
+Audi,A4,1.8T quattro,1997,2005,9
+Audi,A4,2.0T Premium,2009,2015,7
+Audi,A4,2.0T Premium quattro,2009,2015,7
+BMW,3 Series,328i,2007,2015,9
+BMW,3 Series,328i xDrive,2009,2015,7
+BMW,3 Series,335i,2007,2015,9
+BMW,3 Series,335i xDrive,2009,2015,7
+BMW,5 Series,525i,2001,2007,7
+BMW,5 Series,528i,2008,2015,8
+BMW,5 Series,530i,2001,2007,7
+BMW,5 Series,535i,2008,2015,8
+BMW,5 Series,535i xDrive,2009,2015,7
+BMW,5 Series,540i,1997,2003,7
+BMW,5 Series,550i,2006,2015,10
+BMW,7 Series,740iL,1995,2001,7
+BMW,X5,4.4i,2000,2006,7
+BMW,X6,xDrive35i,2008,2014,7
+Buick,LaCrosse,CX,2005,2011,7
+Buick,LaCrosse,CXL,2005,2011,7
+Buick,LeSabre,Custom,1992,2005,14
+Buick,LeSabre,Limited,1997,2005,9
+Buick,Park Avenue,Base,1991,2005,15
+Buick,Park Avenue,Ultra,1997,2005,9
+Buick,Regal,GS,1997,2003,7
+Buick,Regal,LS,1997,2004,8
+Cadillac,CTS,Base,2003,2012,10
+Cadillac,DeVille,Base,1990,2005,16
+Cadillac,Escalade,Base,2002,2012,11
+Cadillac,Escalade ESV,Base,2003,2011,9
+Cadillac,Escalade EXT,Base,2002,2009,8
+Cadillac,Seville,SLS,1995,2004,10
+Cadillac,Seville,STS,1996,2003,8
+Chevrolet,Aveo,LS,2004,2011,8
+Chevrolet,Blazer,LS,1995,2005,11
+Chevrolet,Blazer,LT,1995,2001,7
+Chevrolet,Cavalier,Base,1995,2005,11
+Chevrolet,Cavalier,LS,1997,2005,9
+Chevrolet,Colorado,Work Truck,2006,2012,7
+Chevrolet,Corvette,Base,1998,2013,16
+Chevrolet,Equinox,LS,2005,2015,11
+Chevrolet,Express,LS 3500,2006,2014,9
+Chevrolet,Express Cargo,1500,2001,2014,14
+Chevrolet,Express Cargo,2500,2001,2015,15
+Chevrolet,Express Cargo,3500,2001,2011,11
+Chevrolet,Impala,LS,2000,2015,16
+Chevrolet,Impala,LT,2006,2015,10
+Chevrolet,Impala,LTZ,2009,2015,7
+Chevrolet,Lumina,Base,1995,2001,7
+Chevrolet,Malibu,Base,1998,2005,8
+Chevrolet,Malibu,LS,1997,2015,19
+Chevrolet,Malibu,LTZ,2006,2015,10
+Chevrolet,Monte Carlo,LS,1996,2007,12
+Chevrolet,S-10,LS,1998,2004,7
+Chevrolet,Silverado 1500,Base,1999,2005,7
+Chevrolet,Silverado 1500,LS,1999,2013,15
+Chevrolet,Silverado 1500,LT,1999,2005,7
+Chevrolet,Silverado 1500,LT,2009,2015,7
+Chevrolet,Silverado 1500,LTZ,2007,2015,9
+Chevrolet,Silverado 1500,Work Truck,2004,2014,11
+Chevrolet,Silverado 2500HD,LT,2009,2015,7
+Chevrolet,Silverado 2500HD,LTZ,2007,2015,9
+Chevrolet,Silverado 2500HD,Work Truck,2004,2015,12
+Chevrolet,Silverado 3500HD,LTZ,2007,2015,9
+Chevrolet,Suburban,1500,1993,2001,9
+Chevrolet,Suburban,1500 LS,2002,2010,9
+Chevrolet,Tahoe,LS,2002,2015,14
+Chevrolet,Tahoe,LTZ,2009,2015,7
+Chevrolet,Traverse,LS,2009,2015,7
+Chevrolet,Traverse,LTZ,2009,2015,7
+Chrysler,300,C,2005,2014,10
+Chrysler,PT Cruiser,Base,2002,2009,8
+Chrysler,Sebring,Limited,2001,2010,10
+Chrysler,Sebring,Touring,2004,2010,7
+Chrysler,Town and Country,Limited,2001,2014,14
+Chrysler,Town and Country,Touring,2004,2015,12
+Dodge,Challenger,R/T,2009,2015,7
+Dodge,Dakota,SLT,2002,2008,7
+Dodge,Durango,SLT,2002,2009,8
+Dodge,Grand Caravan,SE,2002,2010,9
+Dodge,Grand Caravan,SXT,2004,2010,7
+Dodge,Ram Pickup 1500,SLT,2003,2010,8
+Dodge,Ram Pickup 2500,SLT,2003,2010,8
+Dodge,Ram Pickup 2500,ST,2003,2010,8
+Dodge,Ram Pickup 3500,SLT,2003,2010,8
+Ford,Crown Victoria,Base,1997,2008,12
+Ford,Crown Victoria,LX,1995,2007,13
+Ford,Econoline Cargo,E-150,1999,2009,11
+Ford,Econoline Cargo,E-250,1999,2009,11
+Ford,Econoline Cargo,E-350 Super Duty,2000,2009,10
+Ford,Edge,Limited,2008,2014,7
+Ford,Edge,SE,2007,2014,8
+Ford,Edge,SEL,2007,2014,8
+Ford,Escape,Limited,2003,2012,10
+Ford,Escape,XLS,2004,2012,9
+Ford,Escape,XLT,2004,2012,9
+Ford,Escort,LX,1993,1999,7
+Ford,Expedition,Eddie Bauer,1998,2009,12
+Ford,Expedition,Limited,2005,2015,11
+Ford,Expedition,XLT,2004,2015,12
+Ford,Explorer,Eddie Bauer,1999,2010,12
+Ford,Explorer,Limited,2002,2008,7
+Ford,Explorer,XLS,1999,2006,8
+Ford,Explorer,XLT,1999,2009,11
+Ford,F-150,FX4,2004,2014,11
+Ford,F-150,King Ranch,2005,2014,10
+Ford,F-150,Lariat,1997,2014,18
+Ford,F-150,Platinum,2009,2015,7
+Ford,F-150,STX,2004,2014,11
+Ford,F-150,XL,1993,2014,22
+Ford,F-150,XLT,1997,2014,18
+Ford,F-250 Super Duty,Lariat,2001,2015,15
+Ford,F-250 Super Duty,XL,1999,2015,17
+Ford,F-250 Super Duty,XLT,1999,2015,17
+Ford,F-350 Super Duty,Lariat,2005,2015,11
+Ford,F-350 Super Duty,XL,2003,2012,10
+Ford,F-350 Super Duty,XLT,2005,2015,11
+Ford,Focus,S,2008,2014,7
+Ford,Focus,SE,2008,2015,8
+Ford,Fusion,S,2006,2015,10
+Ford,Fusion,SEL,2006,2012,7
+Ford,Mustang,Base,1994,2004,11
+Ford,Mustang,Deluxe,2001,2009,9
+Ford,Mustang,GT,1994,2000,7
+Ford,Mustang,GT Premium,2008,2015,8
+Ford,Mustang,Premium,2001,2009,9
+Ford,Ranger,XL,1998,2011,14
+Ford,Ranger,XLT,1993,2011,19
+Ford,Taurus,LX,1996,2004,9
+Ford,Taurus,Limited,2008,2015,8
+Ford,Taurus,SE,1998,2006,9
+Ford,Taurus,SEL,2008,2015,8
+GMC,Acadia,SLT-1,2007,2015,9
+GMC,Acadia,SLT-2,2007,2014,8
+GMC,Envoy,SLE,2002,2009,8
+GMC,Envoy,SLT,2002,2008,7
+GMC,Sierra 1500,Denali,2007,2014,8
+GMC,Sierra 1500,SL,2007,2013,7
+GMC,Sierra 1500,SLE,2009,2015,7
+GMC,Sierra 1500,SLT,2004,2015,12
+GMC,Sierra 1500,Work Truck,2005,2013,9
+GMC,Sierra 2500HD,SLE,2009,2015,7
+GMC,Sierra 2500HD,SLT,2004,2015,12
+GMC,Yukon,Denali,2001,2015,15
+GMC,Yukon,SLE,2001,2008,8
+GMC,Yukon XL,Denali,2001,2015,15
+HUMMER,H2,Base,2003,2009,7
+Honda,Accord,EX,1990,2014,25
+Honda,Accord,EX-L,2007,2015,9
+Honda,Accord,EX-L V-6,2007,2014,8
+Honda,Accord,LX,1990,2015,26
+Honda,Accord,LX V-6,2001,2007,7
+Honda,Accord,LX-S,2008,2014,7
+Honda,CR-V,EX,1998,2014,17
+Honda,CR-V,EX-L,2007,2015,9
+Honda,CR-V,LX,1998,2014,17
+Honda,Civic,DX,1993,2003,11
+Honda,Civic,EX,1993,2015,23
+Honda,Civic,EX-L,2008,2014,7
+Honda,Civic,Hybrid,2003,2012,10
+Honda,Civic,LX,1993,2015,23
+Honda,Civic,Si,2002,2014,13
+Honda,Element,EX,2003,2011,9
+Honda,Element,LX,2004,2011,8
+Honda,Fit,Base,2007,2013,7
+Honda,Fit,Sport,2007,2013,7
+Honda,Odyssey,EX,2001,2014,14
+Honda,Odyssey,EX-L,2002,2015,14
+Honda,Odyssey,LX,2001,2014,14
+Honda,Odyssey,Touring,2005,2014,10
+Honda,Pilot,EX,2006,2014,9
+Honda,Pilot,EX-L,2006,2015,10
+Honda,Ridgeline,RTS,2007,2013,7
+Honda,S2000,Base,2000,2008,9
+Hyundai,Accent,GLS,2005,2015,11
+Hyundai,Accent,GS,2007,2015,9
+Hyundai,Accent,SE,2007,2014,8
+Hyundai,Elantra,GLS,2000,2013,14
+Hyundai,Genesis,3.8,2009,2015,7
+Hyundai,Santa Fe,GLS,2002,2015,14
+Hyundai,Santa Fe,Limited,2006,2014,9
+Hyundai,Sonata,GLS,1999,2014,16
+Hyundai,Sonata,Limited,2008,2015,8
+Hyundai,Sonata,SE,2009,2015,7
+Hyundai,Tucson,GLS,2005,2015,11
+Hyundai,Tucson,Limited,2006,2015,10
+Infiniti,FX35,Base,2003,2010,8
+Infiniti,QX4,Base,1997,2003,7
+Infiniti,QX56,Base,2004,2011,8
+Isuzu,Rodeo,LS,1995,2001,7
+Isuzu,Rodeo,S,1995,2001,7
+Jaguar,S-Type,3,2000,2008,9
+Jaguar,XJ-Series,Vanden Plas,2000,2008,9
+Jaguar,XJ-Series,XJ8,1998,2004,7
+Jaguar,XK-Series,XK8,1997,2003,7
+Jeep,Cherokee,Sport,1995,2001,7
+Jeep,Grand Cherokee,Laredo,1999,2015,17
+Jeep,Grand Cherokee,Limited,1997,2015,19
+Jeep,Liberty,Sport,2002,2012,11
+Jeep,Patriot,Sport,2007,2015,9
+Jeep,Wrangler,Rubicon,2007,2015,9
+Jeep,Wrangler,Sahara,2007,2015,9
+Jeep,Wrangler,Unlimited Rubicon,2007,2014,8
+Jeep,Wrangler,Unlimited Sahara,2007,2015,9
+Kia,Optima,EX,2004,2015,12
+Kia,Optima,LX,2001,2015,15
+Kia,Rio,Base,2001,2011,11
+Kia,Rio,LX,2006,2015,10
+Kia,Sedona,EX,2002,2012,11
+Kia,Sedona,LX,2002,2009,8
+Kia,Sorento,LX,2003,2009,7
+Kia,Sportage,LX,2005,2015,11
+Land Rover,Range Rover,HSE,2008,2014,7
+Land Rover,Range Rover Sport,HSE,2008,2015,8
+Lexus,ES 350,Base,2007,2015,9
+Lexus,IS 250,Base,2006,2015,10
+Lexus,IS 350,Base,2006,2015,10
+Lexus,LS 400,Base,1990,1996,7
+Lexus,LS 460,Base,2007,2014,8
+Lincoln,Continental,Base,1995,2002,8
+Lincoln,MKX,Base,2007,2015,9
+Lincoln,MKZ,Base,2007,2015,9
+Lincoln,Navigator,Base,2008,2015,8
+Lincoln,Town Car,Cartier,1997,2003,7
+Lincoln,Town Car,Executive,1994,2003,10
+Lincoln,Town Car,Signature,1991,1999,9
+Lincoln,Town Car,Signature Limited,2005,2011,7
+MINI,Cooper,Base,2002,2015,14
+MINI,Cooper,S,2002,2015,14
+MINI,Cooper Clubman,Base,2008,2014,7
+MINI,Cooper Clubman,S,2008,2014,7
+Mazda,626,LX,1996,2002,7
+Mazda,CX-9,Sport,2007,2014,8
+Mazda,CX-9,Touring,2007,2014,8
+Mazda,MX-5 Miata,Base,1990,1996,7
+Mazda,MX-5 Miata,Grand Touring,2009,2015,7
+Mazda,Mazda3,i Sport,2008,2014,7
+Mazda,Mazda6,i Sport,2008,2015,8
+Mazda,Protege,LX,1997,2003,7
+Mercedes-Benz,C-Class,C350 Sport,2008,2014,7
+Mercedes-Benz,C-Class,C63 AMG,2008,2014,7
+Mercedes-Benz,CL-Class,CL500,2000,2006,7
+Mercedes-Benz,CLK-Class,CLK320,1998,2005,8
+Mercedes-Benz,CLS-Class,CLS550,2007,2014,8
+Mercedes-Benz,E-Class,E320,1994,2005,12
+Mercedes-Benz,E-Class,E350,2006,2014,9
+Mercedes-Benz,E-Class,E350 4MATIC,2006,2014,9
+Mercedes-Benz,E-Class,E550,2007,2014,8
+Mercedes-Benz,E-Class,E63 AMG,2007,2013,7
+Mercedes-Benz,M-Class,ML350,2005,2011,7
+Mercedes-Benz,M-Class,ML350 4MATIC,2009,2015,7
+Mercedes-Benz,S-Class,S430,2000,2006,7
+Mercedes-Benz,S-Class,S500,1994,2006,13
+Mercedes-Benz,S-Class,S550,2007,2015,9
+Mercedes-Benz,S-Class,S550 4MATIC,2007,2015,9
+Mercury,Grand Marquis,GS,1994,2008,15
+Mercury,Grand Marquis,LS,1992,2001,10
+Mercury,Mariner,Premier,2005,2011,7
+Mercury,Mountaineer,Premier,2003,2010,8
+Mercury,Sable,GS,1996,2005,10
+Mitsubishi,Eclipse,GT,2000,2009,10
+Mitsubishi,Galant,ES,1997,2012,16
+Mitsubishi,Lancer,ES,2008,2015,8
+Mitsubishi,Montero Sport,LS,1997,2004,8
+Mitsubishi,Outlander,ES,2007,2014,8
+Mitsubishi,Outlander,SE,2008,2015,8
+Nissan,370Z,Base,2009,2015,7
+Nissan,Altima,2.5 S,2003,2015,13
+Nissan,Altima,3.5 SE,2002,2009,8
+Nissan,Altima,GXE,1994,2000,7
+Nissan,Armada,SE,2004,2010,7
+Nissan,Frontier,XE,2000,2010,11
+Nissan,Maxima,GLE,1996,2003,8
+Nissan,Maxima,SE,1995,2003,9
+Nissan,Pathfinder,LE,1995,2003,9
+Nissan,Pathfinder,LE,2005,2012,8
+Nissan,Pathfinder,S,2006,2014,9
+Nissan,Pathfinder,SE,1995,2010,16
+Nissan,Rogue,S,2008,2014,7
+Nissan,Sentra,GXE,1995,2003,9
+Nissan,Sentra,SE-R,2002,2008,7
+Nissan,Titan,LE,2004,2010,7
+Nissan,Titan,SE,2004,2010,7
+Nissan,Xterra,S,2005,2014,10
+Nissan,Xterra,SE,2000,2010,11
+Nissan,Xterra,X,2006,2014,9
+Oldsmobile,Bravada,Base,1997,2003,7
+Pontiac,Bonneville,SE,1998,2005,8
+Pontiac,Grand Am,GT,1999,2005,7
+Pontiac,Grand Am,SE,1995,2004,10
+Pontiac,Grand Prix,GT,1997,2003,7
+Pontiac,Grand Prix,GTP,1997,2004,8
+Pontiac,Grand Prix,SE,1997,2003,7
+Pontiac,Sunfire,SE,1995,2002,8
+Pontiac,Vibe,Base,2003,2010,8
+Porsche,Boxster,Base,1997,2011,15
+Porsche,Boxster,S,2000,2008,9
+Porsche,Cayenne,Base,2008,2014,7
+Porsche,Cayenne,S,2008,2014,7
+Saturn,S-Series,SL1,1993,2002,10
+Saturn,S-Series,SL2,1992,2002,11
+Scion,xD,Base,2008,2014,7
+Subaru,Impreza,WRX STI,2006,2012,7
+Subaru,Legacy,2.5i Limited,2009,2015,7
+Subaru,Legacy,L,1995,2003,9
+Toyota,4Runner,Limited,1995,2001,7
+Toyota,Avalon,Limited,2005,2014,10
+Toyota,Avalon,XL,1995,2010,16
+Toyota,Avalon,XLS,1995,2010,16
+Toyota,Camry,LE,1992,2015,24
+Toyota,Camry,SE,2002,2015,14
+Toyota,Camry,XLE,1993,1999,7
+Toyota,Camry,XLE,2002,2014,13
+Toyota,Camry Solara,SE,1999,2008,10
+Toyota,Celica,GT,1999,2005,7
+Toyota,Corolla,CE,1998,2007,10
+Toyota,Corolla,LE,1998,2007,10
+Toyota,Corolla,LE,2009,2015,7
+Toyota,Corolla,S,2001,2007,7
+Toyota,Corolla,S,2009,2015,7
+Toyota,Highlander,Base,2001,2013,13
+Toyota,Highlander,Limited,2002,2015,14
+Toyota,Highlander Hybrid,Base,2006,2013,8
+Toyota,Highlander Hybrid,Limited,2006,2013,8
+Toyota,Land Cruiser,Base,1996,2009,14
+Toyota,Prius,Base,2001,2009,9
+Toyota,RAV4,Base,2006,2012,7
+Toyota,RAV4,Limited,2006,2014,9
+Toyota,RAV4,Sport,2006,2012,7
+Toyota,Sienna,LE 7-Passenger,2004,2014,11
+Toyota,Sienna,XLE 7-Passenger,2004,2012,9
+Toyota,Tacoma,Base,1995,2004,10
+Toyota,Tundra,SR5,2003,2009,7
+Volkswagen,GTI,Base,2006,2013,8
+Volkswagen,Golf,GL,2000,2006,7
+Volkswagen,Golf,GLS,2000,2006,7
+Volkswagen,Jetta,GL,1997,2005,9
+Volkswagen,Jetta,S,2008,2014,7
+Volkswagen,Jetta,SE,2008,2014,7
+Volkswagen,New Beetle,GL,1999,2005,7
+Volkswagen,New Beetle,GLS,1999,2005,7
+Volkswagen,Tiguan,S,2009,2015,7
+Volvo,C70,T5,2006,2013,8
+Volvo,S40,2.4i,2004,2010,7
+Volvo,S60,2.5T,2003,2009,7
+Volvo,S80,3.2,2007,2014,8
+Volvo,XC90,3.2,2007,2014,8
