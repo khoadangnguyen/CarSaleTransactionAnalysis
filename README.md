@@ -1,10 +1,11 @@
 # Car Sale Transaction Analysis
-Analyze car sale transaction data to come up with training data and test data for Regression model
+Analyzed car sales transaction data to prepare structured training and test datasets for developing a regression model 
+aimed at predicting key sales metrics.
 
 ### Description
-This project is to analyze over 500,000 car sale transactions of 96 car makes, 972 models, and 1963 trims from 1982 
-to 2015 to come up with what car make, model, trim, and year can be used for training data and test data for the
-Regression model to predict car sale price
+This project analyzes over 500,000 car sales transactions, covering 96 car makes, 972 models, and 1,963 trims from 1982 
+to 2015. The goal is to identify key features such as car make, model, trim, and year to create training and test 
+datasets for a regression model aimed at predicting car sale prices.
 
 ### Result
 The analysis results in some popular car make, model, and trim having continuous car sale transaction from 2001 to 2015
